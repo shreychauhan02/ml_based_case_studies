@@ -128,4 +128,4 @@ Each folder contains:
 --- 
 
 ## 📬 Contact
-If you have any questions or feedback, feel free to reach out via <a href="https://www.linkedin.com/in/aravinthvr/">LinkedIn</a> or <a href="mailto:aravinthvr@gmail.com">Email</a>.
+If you have any questions or feedback, feel free to reach out via <a href="https://www.linkedin.com/in/shreychauhan02/">LinkedIn</a> or <a href="mailto:chauhan.shrey2005@gmail.com">Email</a>.
